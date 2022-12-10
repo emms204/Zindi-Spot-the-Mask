@@ -9,9 +9,3 @@ Evaluation
 
 The evaluation metric for this challenge is Area Under the Curve.
 
-Your submission file should look like:
-
-id                                    label
-ttuqxjhrmdqhppfxrbzgyciipwdxcf.jpg     0.99
-qmltykiislwklsklnzhcsrfsqwmaun.jpg     0.23
-lkzeblenqbovljxpucpsufmprjxxqn.jpg     0.67
